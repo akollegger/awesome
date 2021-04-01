@@ -472,7 +472,7 @@
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy#readme)
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb#readme)
-- [Neo4j](https://github.com/neueda/awesome-neo4j#readme)
+- [Neo4j](https://github.com/neo4j-contrib/awesome-neo4j#readme)
 - [MongoDB](https://github.com/ramnes/awesome-mongodb#readme) - NoSQL database.
 - [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb#readme)
 - [TinkerPop](https://github.com/mohataher/awesome-tinkerpop#readme) - Graph computing framework.
